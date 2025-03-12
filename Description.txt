@@ -1,0 +1,24 @@
+O jogo Ricochet Robots é jogado com robôs que se movimentam em linha reta em um tabuleiro modular. O objetivo é levar os robôs até a posição indicada em cada rodada. 
+Regras 
+
+
+Cada rodada, uma ficha de destino é aberta, indicando a posição do tabuleiro para cada robô.
+
+
+A cor da ficha determina o robô a ser movimentado, e o símbolo indica a posição de destino.
+
+
+Os jogadores calculam mentalmente quantos movimentos são necessários para levar o robô até o local indicado.
+
+
+Outros robôs podem ser movimentados para formar obstáculos ou sair do caminho, mas isso também conta como movimento.
+
+
+Os outros jogadores têm um minuto para encontrar uma rota com menos movimentos.
+Tabuleiro 
+
+
+O tabuleiro é modular, e é possível combinar quatro dos oito tabuleiros de dois lados que acompanham o jogo.
+
+
+O posicionamento inicial dos robôs é aleatório, mesmo que se repita a combinação de tabuleiros.
